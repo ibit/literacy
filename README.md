@@ -9,3 +9,4 @@
 | 第6回 | [https://ibit.github.io/literacy/table.html](https://ibit.github.io/literacy/table.html) |
 | 第7回 | [https://ibit.github.io/literacy/cc.html](https://ibit.github.io/literacy/cc.html) |
 | 第8回 | [https://ibit.github.io/literacy/style.html](https://ibit.github.io/literacy/style.html) |
+| 第9回 | [https://ibit.github.io/literacy/report-secret](https://ibit.github.io/literacy/report-secret) |
