@@ -10,4 +10,4 @@
 | 第7回 | [https://ibit.github.io/literacy/cc.html](https://ibit.github.io/literacy/cc.html) |
 | 第8回 | [https://ibit.github.io/literacy/style.html](https://ibit.github.io/literacy/style.html) |
 | 第9回 | [https://ibit.github.io/literacy/report-secret](https://ibit.github.io/literacy/report-secret) |
-| 第9回 | [https://ibit.github.io/literacy/valid.html](https://ibit.github.io/literacy/valid.html) |
+| 第10回 | [https://ibit.github.io/literacy/valid.html](https://ibit.github.io/literacy/valid.html) |
